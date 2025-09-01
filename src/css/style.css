@@ -47,3 +47,11 @@
     font-size: 50px;
     
 }
+
+.background-footer {
+    background-color: rgb(34, 41, 34);
+}
+
+.espaco-footer {
+    padding: 50px;
+}
