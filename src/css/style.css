@@ -1,0 +1,18 @@
+.navbar-custom {
+    background-color: rgb(0, 77, 0);
+}
+
+.navbar-custom a{
+    color: white;
+}
+
+.navbar-custom a:hover{
+    color: white;
+    transform: scale(1.1);
+    transition: color 0.3s ease, transform 0.3s ease; 
+}
+
+.carousel-item img {
+  height: 60vh; 
+  object-fit: cover;
+}
