@@ -50,7 +50,7 @@ O site apresenta uma vitrine de produtos sustentáveis, organizados em categoria
 
 ## Github Pages
 
-[Clique aqui para acessar a página]([https://exemplo.com](https://mrjoaoabe.github.io/CP4-Front-EcoTrend/))
+[Clique aqui para acessar a página](https://mrjoaoabe.github.io/CP4-Front-EcoTrend/)
 
 ---
 
