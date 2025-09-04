@@ -2,7 +2,7 @@
 
 /* Estilo da navbar */
 .navbar-custom {
-    background-color: #2d6a4f;
+    background-color: rgb(0, 77, 0);
 }
 
 .navbar-custom .nav-link {
@@ -21,32 +21,32 @@
 }
 
 .card h2 {
-    color: #2d6a4f;
+    color: rgb(0, 77, 0);
     font-weight: bold;
 }
 
 /* Formulário */
 form button {
-    background-color: #2d6a4f;
+    background-color: rgb(0, 77, 0);
     border: none;
     font-weight: bold;
 }
 
 form button:hover {
-    background-color: #1b4332;
+    background-color: rgb(17, 51, 37);
 }
 
 /* Campos do formulário com destaque */
 form input:focus,
 form textarea:focus {
-    border-color: #2d6a4f;
-    box-shadow: 0 0 5px rgba(45, 106, 79, 0.4);
+    border-color: rgb(0, 77, 0);
+    box-shadow: 0 0 5px rgba(25, 66, 48, 0.4)
 }
 
 /* Caixa de informações */
 .info-box {
     background-color: #f1fdf3;
-    border-left: 5px solid #2d6a4f;
+    border-left: 5px solid rgb(0, 77, 0);
     border-radius: 8px;
 }
 
