@@ -1,1 +1,56 @@
 @import url(/CP4-Front-EcoTrend/src/css/style.css);
+
+/* Estilo da navbar */
+.navbar-custom {
+    background-color: #2d6a4f;
+}
+
+.navbar-custom .nav-link {
+    color: #fff !important;
+    transition: 0.3s;
+}
+
+.navbar-custom .nav-link:hover {
+    color: #d8f3dc !important;
+}
+
+/* Card de contato */
+.card {
+    border-radius: 12px;
+    background-color: #ffffff;
+}
+
+.card h2 {
+    color: #2d6a4f;
+    font-weight: bold;
+}
+
+/* Formulário */
+form button {
+    background-color: #2d6a4f;
+    border: none;
+    font-weight: bold;
+}
+
+form button:hover {
+    background-color: #1b4332;
+}
+
+/* Campos do formulário com destaque */
+form input:focus,
+form textarea:focus {
+    border-color: #2d6a4f;
+    box-shadow: 0 0 5px rgba(45, 106, 79, 0.4);
+}
+
+/* Caixa de informações */
+.info-box {
+    background-color: #f1fdf3;
+    border-left: 5px solid #2d6a4f;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    font-size: 14px;
+}
