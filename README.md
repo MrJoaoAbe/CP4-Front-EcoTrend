@@ -44,7 +44,36 @@ O site apresenta uma vitrine de produtos sustentáveis, organizados em categoria
 
 - Todos os produtos da Loja
 
-### Pagina Detalhes dos Produtoss
+### Página Detalhes dos Produtos
+
+- Navbar
+  - Barra de navegação com logotipo, links para páginas principais (Home, Categorias, Detalhes e Contato) e ícone do carrinho de compras.
+
+- Título da Página
+  - Exibe o título “Detalhes dos Produtos” centralizado no topo da página.
+
+- Sessão de Produtos com Accordion
+  - Cada produto é exibido em um Accordion do Bootstrap, permitindo expandir e visualizar as informações detalhadas:
+
+  - Ecobag – Imagem, slogan, descrição detalhada, preço e botão Adicionar ao Carrinho.
+
+  - Camiseta Natural – Imagem, slogan, descrição detalhada, preço e botão Adicionar ao Carrinho.
+
+  - Escova Natural – Imagem, slogan, descrição detalhada, preço e botão Adicionar ao Carrinho.
+
+  - Óleo Natural – Imagem, slogan, descrição detalhada, preço e botão Adicionar ao Carrinho.
+
+  - Vaso Natural – Imagem, slogan, descrição detalhada, preço e botão Adicionar ao Carrinho.
+
+- Cada item do Accordion inclui:
+
+  - Imagem destacada do produto
+
+  - Descrição em destaque (frase de impacto)
+
+  - Preço em evidência (verde e negrito)
+
+  - Botão de compra
 
 ### Pagina Contato
 
