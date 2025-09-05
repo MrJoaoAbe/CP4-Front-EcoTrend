@@ -32,7 +32,17 @@ O site apresenta uma vitrine de produtos sustentáveis, organizados em categoria
 
   Inclui também a seção de direitos autorais no final.
 
-### Pagina 2
+### Pagina Categorias
+
+- **Filtros**
+  3 tipos de Filtros
+  - Filtro por preço
+  - Filtro por tipo do produto
+  - Filtro por marrca
+
+ - **Sessão de Produtos**  
+
+Todos os produtos da Loja
 
 ### Pagina 3
 
