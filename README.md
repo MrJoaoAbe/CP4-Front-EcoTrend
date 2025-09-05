@@ -42,11 +42,20 @@ O site apresenta uma vitrine de produtos sustentáveis, organizados em categoria
 
  - **Sessão de Produtos**  
 
-Todos os produtos da Loja
+- Todos os produtos da Loja
 
-### Pagina 3
+### Pagina Detalhes dos Produtoss
 
-### Pagina 4
+### Pagina Contato
+
+- **Lugar para enviar uma mensagem**
+  Neste região devem ser inclusas:
+  - Nome
+  - Email
+  - Mensagem
+  - Botão de enviar a mensagem
+
+- **Inclui pontos importantes do rodapé em um boloco de informações**
 
 ---
 
